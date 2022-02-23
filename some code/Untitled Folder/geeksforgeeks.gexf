@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-02-10">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Huskies_D1" label="Huskies_D1" />
+      <node id="Huskies_F1" label="Huskies_F1" />
+      <node id="Huskies_M1" label="Huskies_M1" />
+      <node id="Huskies_F2" label="Huskies_F2" />
+      <node id="Huskies_M2" label="Huskies_M2" />
+      <node id="Huskies_M3" label="Huskies_M3" />
+      <node id="Huskies_G1" label="Huskies_G1" />
+      <node id="Huskies_D2" label="Huskies_D2" />
+      <node id="Huskies_D3" label="Huskies_D3" />
+      <node id="Huskies_D4" label="Huskies_D4" />
+      <node id="Huskies_F3" label="Huskies_F3" />
+      <node id="Huskies_D5" label="Huskies_D5" />
+      <node id="Huskies_M4" label="Huskies_M4" />
+      <node id="Huskies_M5" label="Huskies_M5" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Huskies_D1" target="Huskies_F1" weight="5" />
+      <edge id="1" source="Huskies_D1" target="Huskies_G1" weight="4" />
+      <edge id="2" source="Huskies_D1" target="Huskies_D2" weight="25" />
+      <edge id="3" source="Huskies_D1" target="Huskies_M3" weight="10" />
+      <edge id="4" source="Huskies_D1" target="Huskies_M1" weight="24" />
+      <edge id="5" source="Huskies_D1" target="Huskies_F2" weight="6" />
+      <edge id="6" source="Huskies_D1" target="Huskies_D3" weight="14" />
+      <edge id="7" source="Huskies_D1" target="Huskies_F3" weight="1" />
+      <edge id="8" source="Huskies_D1" target="Huskies_D4" weight="1" />
+      <edge id="9" source="Huskies_D1" target="Huskies_M2" weight="1" />
+      <edge id="10" source="Huskies_D1" target="Huskies_D5" weight="4" />
+      <edge id="11" source="Huskies_D1" target="Huskies_M4" weight="1" />
+      <edge id="12" source="Huskies_F1" target="Huskies_G1" weight="2" />
+      <edge id="13" source="Huskies_F1" target="Huskies_F2" weight="8" />
+      <edge id="14" source="Huskies_F1" target="Huskies_M1" weight="6" />
+      <edge id="15" source="Huskies_F1" target="Huskies_M2" weight="1" />
+      <edge id="16" source="Huskies_F1" target="Huskies_D2" weight="1" />
+      <edge id="17" source="Huskies_F1" target="Huskies_F3" weight="2" />
+      <edge id="18" source="Huskies_F1" target="Huskies_D4" weight="1" />
+      <edge id="19" source="Huskies_F1" target="Huskies_D5" weight="2" />
+      <edge id="20" source="Huskies_F1" target="Huskies_D3" weight="1" />
+      <edge id="21" source="Huskies_F1" target="Huskies_M5" weight="1" />
+      <edge id="22" source="Huskies_M1" target="Huskies_F2" weight="24" />
+      <edge id="23" source="Huskies_M1" target="Huskies_M3" weight="17" />
+      <edge id="24" source="Huskies_M1" target="Huskies_D2" weight="4" />
+      <edge id="25" source="Huskies_M1" target="Huskies_G1" weight="4" />
+      <edge id="26" source="Huskies_M1" target="Huskies_M2" weight="2" />
+      <edge id="27" source="Huskies_M1" target="Huskies_D3" weight="4" />
+      <edge id="28" source="Huskies_M1" target="Huskies_F3" weight="2" />
+      <edge id="29" source="Huskies_M1" target="Huskies_D5" weight="6" />
+      <edge id="30" source="Huskies_M1" target="Huskies_D4" weight="4" />
+      <edge id="31" source="Huskies_M1" target="Huskies_M1" weight="1" />
+      <edge id="32" source="Huskies_M1" target="Huskies_M4" weight="3" />
+      <edge id="33" source="Huskies_M1" target="Huskies_M5" weight="1" />
+      <edge id="34" source="Huskies_F2" target="Huskies_D2" weight="3" />
+      <edge id="35" source="Huskies_F2" target="Huskies_D3" weight="6" />
+      <edge id="36" source="Huskies_F2" target="Huskies_M3" weight="10" />
+      <edge id="37" source="Huskies_F2" target="Huskies_D4" weight="4" />
+      <edge id="38" source="Huskies_F2" target="Huskies_F3" weight="4" />
+      <edge id="39" source="Huskies_F2" target="Huskies_D5" weight="12" />
+      <edge id="40" source="Huskies_F2" target="Huskies_M4" weight="4" />
+      <edge id="41" source="Huskies_F2" target="Huskies_M5" weight="3" />
+      <edge id="42" source="Huskies_M2" target="Huskies_M3" weight="11" />
+      <edge id="43" source="Huskies_M2" target="Huskies_D3" weight="7" />
+      <edge id="44" source="Huskies_M2" target="Huskies_D2" weight="2" />
+      <edge id="45" source="Huskies_M2" target="Huskies_D4" weight="7" />
+      <edge id="46" source="Huskies_M2" target="Huskies_F3" weight="3" />
+      <edge id="47" source="Huskies_M2" target="Huskies_G1" weight="1" />
+      <edge id="48" source="Huskies_M3" target="Huskies_D3" weight="14" />
+      <edge id="49" source="Huskies_M3" target="Huskies_D2" weight="4" />
+      <edge id="50" source="Huskies_M3" target="Huskies_D4" weight="4" />
+      <edge id="51" source="Huskies_M3" target="Huskies_F3" weight="3" />
+      <edge id="52" source="Huskies_M3" target="Huskies_D5" weight="7" />
+      <edge id="53" source="Huskies_M3" target="Huskies_M4" weight="2" />
+      <edge id="54" source="Huskies_G1" target="Huskies_G1" weight="1" />
+      <edge id="55" source="Huskies_G1" target="Huskies_D3" weight="8" />
+      <edge id="56" source="Huskies_G1" target="Huskies_D2" weight="1" />
+      <edge id="57" source="Huskies_G1" target="Huskies_D5" weight="2" />
+      <edge id="58" source="Huskies_D2" target="Huskies_D3" weight="24" />
+      <edge id="59" source="Huskies_D2" target="Huskies_D4" weight="1" />
+      <edge id="60" source="Huskies_D2" target="Huskies_F3" weight="1" />
+      <edge id="61" source="Huskies_D3" target="Huskies_D4" weight="13" />
+      <edge id="62" source="Huskies_D3" target="Huskies_F3" weight="2" />
+      <edge id="63" source="Huskies_D3" target="Huskies_M4" weight="1" />
+      <edge id="64" source="Huskies_D3" target="Huskies_M5" weight="1" />
+      <edge id="65" source="Huskies_D4" target="Huskies_F3" weight="2" />
+      <edge id="66" source="Huskies_D4" target="Huskies_M4" weight="3" />
+      <edge id="67" source="Huskies_F3" target="Huskies_M4" weight="2" />
+      <edge id="68" source="Huskies_D5" target="Huskies_D5" weight="2" />
+      <edge id="69" source="Huskies_M4" target="Huskies_M5" weight="1" />
+    </edges>
+  </graph>
+</gexf>
